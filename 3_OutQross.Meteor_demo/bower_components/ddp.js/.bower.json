@@ -1,0 +1,36 @@
+{
+  "name": "ddp.js",
+  "main": "src/ddp.js",
+  "version": "0.6.0",
+  "homepage": "https://github.com/mondora/ddp.js",
+  "authors": [
+    "Paolo Scanferla <paolo.scanferla@mondora.com>"
+  ],
+  "description": "A ddp client for the browser.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "ddp",
+    "meteor",
+    "asteroid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.6.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.6.0",
+    "commit": "46a120b0e24020b1bb0b86d62922d61df63c305c"
+  },
+  "_source": "git://github.com/mondora/ddp.js.git",
+  "_target": "~0.6.0",
+  "_originalSource": "ddp.js"
+}

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Desktop.qml</file>
+        <file>JSONListModel.qml</file>
+        <file>jsonpath.js</file>
+        <file>Qondrite.qml</file>
+        <file>bower_components/asteroid/dist/asteroid.qml.js</file>
+        <file>bower_components/ddp.js/src/ddp.js</file>
+        <file>bower_components/q/q.js</file>
+        <file>Log.js</file>
+        <file>Data.js</file>
+        <file>main.qml</file>
+        <file>Android.qml</file>
+    </qresource>
+</RCC>
